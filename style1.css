@@ -1,0 +1,36 @@
+h1 
+{
+    color:black;
+    
+}
+h2  
+{
+    color: brown;
+}
+h3 
+{
+    color: red;
+}
+h4 
+{
+    color: blue;}
+
+i 
+{
+    color:blue;
+}
+
+.My-details 
+{
+display:grid;
+
+}
+body
+{
+    background-image:url("image-3.jpg");
+    
+  background-size: 100% 100% ;
+  
+
+
+}
